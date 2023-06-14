@@ -1,1 +1,3 @@
+# Ignore configuration files with sensitive information
 config.json
+
