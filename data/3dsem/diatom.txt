@@ -1,0 +1,6 @@
+This dataset contains three 2D images from a diatom frustule sample and 
+its 3D point cloud (.off format) which could be easily converted to a surface model by MeshLab. 
+The set of 2D images were obtained by tilting the specimen stage 15 
+degrees from one to the next in the image sequence.
+
+http://selibcv.org/3dsem/

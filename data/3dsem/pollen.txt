@@ -1,0 +1,7 @@
+This dataset contains four 2D images from a biological sample called 
+"pollen grain from Brassica rapa" and its 3D point cloud (.ply format) 
+which could be easily converted to a surface model by MeshLab. 
+The set of 2D images were obtained by tilting the specimen stage 3 
+degrees from one to the next in the image sequence.
+
+http://selibcv.org/3dsem/
