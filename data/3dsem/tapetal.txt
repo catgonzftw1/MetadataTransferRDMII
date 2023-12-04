@@ -1,6 +1,0 @@
-This dataset contains five 2D images from a biological sample called 
-“tapetal cell of Arabidopsis thaliana” and its 3D surface model (.off format). 
-The set of 2D images were obtained by tilting the SEM specimen stage 9 degrees 
-from one to the next in the image sequence.
-
-http://selibcv.org/3dsem/
