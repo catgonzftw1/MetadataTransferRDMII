@@ -13,3 +13,7 @@ This project is for the Automating (Meta)data to Coscine Workshop
 
 # Python SDK Documentation:
 - [coscine 0.11.12 documentation (rwth-aachen.de)](https://coscine.pages.rwth-aachen.de/community-features/coscine-python-sdk/)
+
+# Coscine Survey
+23.03.-30.04
+https://s2survey.net/coscine_umfrage_2026/
